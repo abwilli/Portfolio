@@ -2,12 +2,12 @@ title: Abby Williams # your name (or website title) here
 logo: "/images/abwilli.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   UNC Chapel Hill Class of 2020
+  <br><br>
   B.S Computer Science
+  <br><br>
   B.S Statistics & Analytics
   <br><br>
-  Second Description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/abby-williams-a59615150">View My LinkedIn Profile</a> 
+ 
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

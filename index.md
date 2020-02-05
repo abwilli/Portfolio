@@ -4,8 +4,8 @@
 
 ### R
 
-[Regression Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Regression Analysis](/pdf/RegressionAnalysis)
+<img src="images/regression.png?raw=true"/>
 
 ---
 [Data Science](/pdf/sample_presentation.pdf)
